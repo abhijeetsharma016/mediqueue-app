@@ -1,4 +1,3 @@
-```
 # 🏥 MediQueue | High-Concurrency Doctor Booking System
 
 ![Status](https://img.shields.io/badge/Status-Live-success)
@@ -123,5 +122,3 @@ To scale this system to millions of users (e.g., RedBus/BookMyShow level), the f
 ## 👤 Author
 
 **Abhijeet Sharma** *SRM Institute of Science and Technology* [GitHub](https://www.google.com/search?q=https://github.com/abhijeetsharma016)
-
-```
